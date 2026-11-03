@@ -1,4 +1,6 @@
-# JavaAn2 — Java Exercises, Year II
+***English** · [Română](README.ro.md)*
+
+# Java Exercises — Year II
 
 A small workspace repository from the second-year Java course. It contains one complete algorithmic
 exercise, the **eight queens problem**, solved by backtracking.
